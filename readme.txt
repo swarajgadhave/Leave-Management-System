@@ -1,6 +1,6 @@
 ====================================================================================================================================================================================================
 
-Project Title: PICT Leave Management System
+Project Title: Leave Management System
 
 ====================================================================================================================================================================================================
 
@@ -77,8 +77,7 @@ Structure:
 
 ========================================================================================ACKNOWLEDGEMENT==============================================================================================
 
-We sincerely thank our WTL Lab Coordinator Prof. P.A.Jain and Head of Department for their support, providing all the help, motivation and encouragement from beginning till end to 
-make this project a grand success. Above all we would like to thank our parents for their wonderful support and blessings, without which we would not have been able to accomplish our goal.
+
 
 
 
